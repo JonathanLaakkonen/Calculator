@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Jonat\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jonat\\OneDrive\\Documents\\GitHub\\Software1-Knowledge-Check-1\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj",
+      "projectName": "KnowledgeCheck1_Calculator",
+      "projectPath": "C:\\Users\\Jonat\\OneDrive\\Documents\\GitHub\\Software1-Knowledge-Check-1\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj",
+      "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonat\\OneDrive\\Documents\\GitHub\\Software1-Knowledge-Check-1\\KnowledgeCheck1_Calculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net50"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
